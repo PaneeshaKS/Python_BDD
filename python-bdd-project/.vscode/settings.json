@@ -1,0 +1,14 @@
+{
+    "workbench.settings.useSplitJSON": true,
+    "json.schemas": []
+}
+{
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true,
+    "python.testing.autoTestDiscoverOnSaveEnabled": true,
+    "cucumberautocomplete.steps": [
+        "features/steps/*.py"
+    ],
+    "cucumberautocomplete.syncfeatures": "features/*.feature",
+    "cucumberautocomplete.strictGherkinCompletion": true
+}
